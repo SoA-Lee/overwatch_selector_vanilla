@@ -1,0 +1,25 @@
+{
+  "name": "overwatch_selector_vanilla",
+  "version": "1.0.0",
+  "description": "<h3> 오버워치 영웅 선택 화면 클론 코딩 </h3>\r <body>\r <a href=\"https://soa-lee.github.io/overwatch_selector_vanilla/\">Demo</a> \r <br>\r <br>\r <img src = \"https://user-images.githubusercontent.com/67897318/143770057-5d3e43ff-ca0c-42a9-a62a-c803a0187fbf.PNG\" width=\"auto\" height=\"500\"> \r </body>",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoA-Lee/overwatch_selector_vanilla.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SoA-Lee/overwatch_selector_vanilla/issues"
+  },
+  "homepage": "https://github.com/SoA-Lee/overwatch_selector_vanilla#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.49.7"
+  }
+}
